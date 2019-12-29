@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="container">
-      <h1 class="title">资金管理系统</h1>
+      <h1 class="title">资金管理系统 作者：陈博宇</h1>
       <p class="lead">前端：Vue全家桶、ElementUI</p>
       <p class="lead">后端：Express、Bcryptjs、JsonWebToken、MangoDB</p>
     </div>
